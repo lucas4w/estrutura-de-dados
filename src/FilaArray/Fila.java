@@ -1,4 +1,4 @@
-package FilaArray;
+package filaArray;
 
 public class Fila implements IFila{
     private int i;

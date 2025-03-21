@@ -1,4 +1,4 @@
-package FilaLigada;
+package filaLigada;
 
 public class FilaVaziaException extends RuntimeException {
     /**

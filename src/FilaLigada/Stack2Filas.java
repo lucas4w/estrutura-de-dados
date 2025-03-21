@@ -1,5 +1,5 @@
-package FilaLigada;
-
+package filaLigada;
+// implementação do TAD pilha usando 2 filas 
 public class Stack2Filas {
 	private Fila fila1;
 	private Fila fila2;

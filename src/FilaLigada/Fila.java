@@ -1,4 +1,4 @@
-package FilaLigada;
+package filaLigada;
 
 public class Fila implements IFila{
     private Node inicio;

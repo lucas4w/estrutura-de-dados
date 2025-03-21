@@ -1,4 +1,4 @@
-package FilaArray;
+package filaArray;
 
 
 public interface IFila {
